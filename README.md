@@ -1,6 +1,6 @@
 # frontend-portfolio
 
-## Página Home de portfólio para postar projetos e entrar em contato.
+## Página Home de portfólio para postar projetos 
 
 
 ![](https://i.imgur.com/Vwj9U0y.png)
